@@ -1,0 +1,2 @@
+"CFBundleDisplayName" = "HEOS Remote";
+"NSLocalNetworkUsageDescription" = "HEOS Remote behöver åtkomst till det lokala nätverket för att hitta och styra dina HEOS-högtalare.";
